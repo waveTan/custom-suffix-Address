@@ -1,0 +1,38 @@
+{
+  "name": "custom-suffix-address",
+  "version": "1.0.0",
+  "description": "custom suffix adress ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waveTan/custom-suffix-Address.git"
+  },
+  "keywords": [
+    "NULS",
+    "NVT",
+    "suffix",
+    "address"
+  ],
+  "author": "wave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waveTan/custom-suffix-Address/issues"
+  },
+  "homepage": "https://github.com/waveTan/custom-suffix-Address#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "es-checker": "^1.4.2",
+    "nerve-sdk-js": "^1.0.4",
+    "nuls-sdk-js": "^2.4.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.1",
+    "@babel/preset-env": "^7.13.0",
+    "@babel/register": "^7.13.0"
+  }
+}
